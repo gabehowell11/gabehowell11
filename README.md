@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Gabe 
 
-<!--
-**gabehowell11/gabehowell11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Software Engineering Student @ Bowling Green State University
 
-Here are some ideas to get you started:
+I'm a software engineering student building projects in C++, Python,
+and web technologies. I'm interested in software engineering and IT
+and currently focused on expanding my development skills through
+coursework and personal projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+
+### Languages
+C++ • Python • R
+
+### Frameworks & Libraries
+SFML • Streamlit • Pandas • REST APIs
+
+### Developer Tools
+Git • GitHub • Visual Studio • VS Code
+
+## Featured Projects
+
+### Polygon Calculator
+C++ object-oriented polygon calculator demonstrating inheritance,
+polymorphism, abstract classes, and dynamic memory management.
+
+### NBA Stat Tracker
+Python application using Streamlit, Pandas, and a REST API to retrieve
+and display NBA statistics.
+
+### SFML Game
+C++ game built with SFML demonstrating object-oriented game development,
+game loops, input handling, and graphical programming.
+
+## Connect With Me
+
+LinkedIn: [[Gabriel Howell](https://www.linkedin.com/in/gabriel-howell-a0b1753b1/)]
+Handshake: [[Gabriel Howell](https://app.joinhandshake.com/profiles/a5qk7j)]
